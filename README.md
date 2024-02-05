@@ -9,6 +9,8 @@ This repository contains a Python script for building a Convolutional Neural Net
 
 **Prediction:** An example code snippet demonstrates how to preprocess and predict the class (cat or dog) of a new image using the trained model.
 
+Link to the datset used : **https://www.kaggle.com/datasets/salader/dogs-vs-cats**
+
 **Usage:**
 Clone the repository to your local machine.
 
